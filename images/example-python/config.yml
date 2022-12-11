@@ -1,0 +1,7 @@
+mysql_connection:
+  mysql_hostname: 'database'
+  mysql_database: 'codetest'
+  mysql_username: 'codetest'
+  mysql_password: 'swordfish'
+  mysql_port: 3306
+  
