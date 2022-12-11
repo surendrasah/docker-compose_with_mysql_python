@@ -18,6 +18,6 @@ services:
   example-python:
     image: example-python
     build: images/example-python
-    command: ["./example_latest.py"]
+    command: "python ./example_latest.py"
     volumes:
       - ./data:/data
